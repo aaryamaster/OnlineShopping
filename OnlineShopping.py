@@ -30,7 +30,7 @@ def save_product(product):
             file.write("\n")
         file.write(f"{product['id']},{product['name']},{product['price']},{product['type']},{product['image']}")
 
-        
+      
 @app.route('/')
 def index():
     products = load_products()
