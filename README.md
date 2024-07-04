@@ -1,7 +1,8 @@
 
 # Web Application using Flask + Cloud Deployment Demo
-![OnlineShopping](<img width="1436" alt="Screenshot 2024-07-04 at 2 30 20 PM" src="https://github.com/aaryamaster/OnlineShopping/assets/75297750/3ec5ec2d-8762-45d6-874e-2d32894ac7d5">
-)
+
+<img width="1436" alt="Screenshot 2024-07-04 at 2 30 20 PM" src="https://github.com/aaryamaster/OnlineShopping/assets/75297750/3ec5ec2d-8762-45d6-874e-2d32894ac7d5">
+
 
 ## Open Visual Studio and select Create a new project
 
