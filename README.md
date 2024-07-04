@@ -1,6 +1,7 @@
 
 # Web Application using Flask + Cloud Deployment Demo
-![OnlineShopping](/App.JPG)
+![OnlineShopping](<img width="1436" alt="Screenshot 2024-07-04 at 2 30 20 PM" src="https://github.com/aaryamaster/OnlineShopping/assets/75297750/3ec5ec2d-8762-45d6-874e-2d32894ac7d5">
+)
 
 ## Open Visual Studio and select Create a new project
 
@@ -481,7 +482,9 @@ By setting up this CI/CD pipeline and adding test cases, we ensure that our code
 
 ## Verify the Workflow:
 
-After pushing the changes, go to your GitHub repository and navigate to the "Actions" tab. You should see the workflow running. If everything is set up correctly, the workflow will run and show the status of your tests
+After pushing the changes, go to your GitHub repository and navigate to the "Actions" tab. You should see the workflow running. If everything is set up correctly, the workflow will run and show the status of your tests!
 
-!
+
+<img width="1436" alt="Screenshot 2024-07-04 at 2 30 37 PM" src="https://github.com/aaryamaster/OnlineShopping/assets/75297750/466e2f44-0b2a-4925-ae59-bc974ae2705e">
+
 
